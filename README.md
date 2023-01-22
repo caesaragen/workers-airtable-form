@@ -33,8 +33,8 @@ The Airtable table name and base ID can be set using the `vars` configuration se
 # Rest of wrangler.toml
 
 [vars]
-AIRTABLE_BASE_ID = "yourAppId"
-AIRTABLE_TABLE_NAME = "Table Name"
+AIRTABLE_BASE_ID = "yourAppId" "app1xlNtRnxVn6BnA"
+AIRTABLE_TABLE_NAME = "Table Name" "base"
 FORM_URL = "https://example-ui.com"
 ```
 
